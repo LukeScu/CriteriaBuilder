@@ -1,7 +1,7 @@
-package org.example.provahibernate;
+package org.example.criteriabuilder;
 
-import org.example.provahibernate.service.IDeptService;
-import org.example.provahibernate.service.IEmpService;
+import org.example.criteriabuilder.service.IDeptService;
+import org.example.criteriabuilder.service.IEmpService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

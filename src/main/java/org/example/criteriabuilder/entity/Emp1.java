@@ -1,4 +1,4 @@
-package org.example.provahibernate.entity;
+package org.example.criteriabuilder.entity;
 
 import jakarta.persistence.*;
 import lombok.Data;

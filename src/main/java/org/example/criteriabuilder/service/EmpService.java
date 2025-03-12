@@ -1,8 +1,8 @@
-package org.example.provahibernate.service;
+package org.example.criteriabuilder.service;
 
 import jakarta.persistence.Tuple;
-import org.example.provahibernate.entity.Emp;
-import org.example.provahibernate.repository.EmpRepository;
+import org.example.criteriabuilder.entity.Emp;
+import org.example.criteriabuilder.repository.EmpRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,8 +1,8 @@
-package org.example.provahibernate.service;
+package org.example.criteriabuilder.service;
 
 import jakarta.persistence.Tuple;
-import org.example.provahibernate.entity.Dept;
-import org.example.provahibernate.repository.DeptRepository;
+import org.example.criteriabuilder.entity.Dept;
+import org.example.criteriabuilder.repository.DeptRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

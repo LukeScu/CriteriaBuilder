@@ -1,13 +1,13 @@
-package org.example.provahibernate.repository;
+package org.example.criteriabuilder.repository;
 
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import jakarta.persistence.Tuple;
 import jakarta.persistence.criteria.*;
-import org.example.provahibernate.entity.Dept;
-import org.example.provahibernate.entity.Emp;
-import org.example.provahibernate.entity.Emp1;
-import org.example.provahibernate.entity.Salgrade;
+import org.example.criteriabuilder.entity.Dept;
+import org.example.criteriabuilder.entity.Emp;
+import org.example.criteriabuilder.entity.Emp1;
+import org.example.criteriabuilder.entity.Salgrade;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
