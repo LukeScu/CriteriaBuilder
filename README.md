@@ -1,7 +1,8 @@
 # Esercizi su CriteriaBuilder
 
 Questo file è un riferimento utile per esercitarsi con CriteriaBuilder <br>
-Possibili soluzioni si trovano sulla branch "Soluzioni" <br>
+Possibili soluzioni si trovano sulla branch "Soluzioni" (DBMS usato : Oracle)<br>
+Aggiungere in application.properties il DB al quale ci si vuole collegare <br>
 Di seguito le tabelle da creare e le query sql da tradurre usando i CriteriaBuilder <br>
 
 Fonte delle tabelle e query : https://myorastuff.blogspot.com/2009/09/oracle-sql-questions.html
