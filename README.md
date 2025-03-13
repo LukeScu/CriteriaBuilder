@@ -1,12 +1,12 @@
 # Esercizi su CriteriaBuilder
 
-Questo file è un riferimento utile per esercitarsi con CriteriaBuilder
-Possibili soluzioni si trovano sulla branch "Soluzioni"
-Di seguito le tabelle da creare e le query sql da tradurre usando i CriteriaBuilder
+Questo file è un riferimento utile per esercitarsi con CriteriaBuilder <br>
+Possibili soluzioni si trovano sulla branch "Soluzioni" <br>
+Di seguito le tabelle da creare e le query sql da tradurre usando i CriteriaBuilder <br>
 
 Fonte delle tabelle e query : https://myorastuff.blogspot.com/2009/09/oracle-sql-questions.html
 
-========================================================================================================================
+==================================================================================
 <details>
 <summary>## Creazione Tabelle</summary>
   
@@ -60,7 +60,7 @@ INSERT INTO SALGRADE VALUES(3, 1401,2000);
 INSERT INTO SALGRADE VALUES(4, 2001,3000);
 INSERT INTO SALGRADE VALUES(5, 3001,9999);
 </details>
-========================================================================================================================
+==================================================================================
 <details>
 <summary>## Lista delle Query</summary>
 
