@@ -838,7 +838,7 @@ public class EmpRepository {
         CriteriaBuilder criteriaBuilder = entityManager.getCriteriaBuilder();
         CriteriaDelete<Emp> query = criteriaBuilder.createCriteriaDelete(Emp.class);
         Root<Emp> from = query.from(Emp.class);
-        List<Integer> list = List.of(50, 60); //Modificare la lista di deptno a piacimento
+        List<Integer> list = List.of(10, 20);
         query.where(from.get("dept").get("deptno").in(list.toArray()));
         entityManager.createQuery(query).executeUpdate();
     }
